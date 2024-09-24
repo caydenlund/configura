@@ -1,0 +1,14 @@
+[package]
+name = "configura"
+version = "0.1.0"
+license = "MIT"
+description = "A functional configuration language"
+repository = "https://github.com/caydenlund/configura"
+readme = "readme.md"
+authors = ["Cayden Lund <cayden.lund@utah.edu>"]
+keywords = ["configuration", "functional", "language"]
+categories = ["config"]
+edition = "2021"
+
+[lints.rust]
+missing_docs = "warn"
